@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>githubtest</name>
+=======
+	<name>javatest</name>
+>>>>>>> d56d55b97169553dc01a2d64b4935161bf4f458f
 	<comment></comment>
 	<projects>
 	</projects>
